@@ -2,13 +2,13 @@
     "server_status": {
         "state": "CRITICAL",
         "metrics": {
-            "cpu_usage_percent": 100.0,
-            "memory_usage_percent": 92.6
+            "cpu_usage_percent": 98.0,
+            "memory_usage_percent": 51.9
         },
         "thresholds": {
             "alarm_greater_than_percent": 75.0,
             "critical_greater_than_percent": 90.0
         },
-        "report_timestamp_utc": "2026-09-17T01:35:14.885979Z"
+        "report_timestamp_utc": "2026-09-19T20:55:07.496496Z"
     }
 }
